@@ -1,49 +1,51 @@
-# 👋 Hi, I'm [Your Name]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# 🚀 Welcome to My GitHub Universe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
----
-
-## 💻 About Me:
-I am a passionate **Front-End Developer** specializing in **HTML, CSS, Bootstrap, JavaScript, and jQuery**. I love building responsive and interactive websites with clean and efficient code. 🚀
-
-### 🌟 Technologies & Tools:
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=I'm+a+Creative+Front-End+Developer;Crafting+Stunning+and+Efficient+Web+Experiences;Turning+Ideas+into+Responsive+UI%2FUX;Passionate+about+Code%2C+Design%2C+and+Innovation" alt="Typing Animation">
 </p>
 
 ---
 
-## 🚀 Skills:
-- ✅ **HTML5, CSS3, Bootstrap**
-- ✅ **JavaScript, jQuery**
-- ✅ **Responsive Web Design & UI/UX**
-- ✅ **Website Performance Optimization**
-- ✅ **Cross-Browser Compatibility**
-- ✅ **Web Animations & Interactivity**
+## 🧑‍💻 About Me:
+👋 Hi! I am a **Front-End Developer** with expertise in **HTML, CSS, Bootstrap, JavaScript, and jQuery**. I specialize in creating stunning and interactive web interfaces that enhance user experience. Always pushing the boundaries of creativity and performance! 💡✨
+
+### 💡 What I Do:
+- 🚀 **Develop responsive and pixel-perfect websites**
+- 🎨 **Enhance UI/UX with smooth animations and interactivity**
+- ⚡ **Optimize website speed and performance**
+- 🔥 **Ensure cross-browser compatibility**
+- 🤝 **Collaborate on open-source and innovative projects**
 
 ---
 
-## 🏆 Featured Projects:
-📌 Here are some of my notable projects:
-
-🔹 **[Project Name 1](Project Link)** - Brief description of the project. <br>
-🔹 **[Project Name 2](Project Link)** - Brief description of the project. <br>
-🔹 **[Project Name 3](Project Link)** - Brief description of the project. <br>
-
----
-
-## 📊 GitHub Stats:
+## 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" width="48%"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" width="48%">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery" alt="Tech Icons">
 </p>
 
 ---
 
-## 🌐 Connect With Me:
+## 🌟 Featured Projects:
+📌 Some of my top projects:
+
+🖥️ **[Project Name 1](Project Link)** - Interactive and dynamic web app.<br>
+📱 **[Project Name 2](Project Link)** - A fully responsive and engaging UI.<br>
+⚡ **[Project Name 3](Project Link)** - Optimized for performance and user experience.<br>
+
+---
+
+## 📊 GitHub Stats & Activity:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" width="48%">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourUsername&theme=tokyonight" width="80%">
+</p>
+
+---
+
+## 📬 Let's Connect:
 <p align="center">
   <a href="Your Portfolio Link"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -53,4 +55,4 @@ I am a passionate **Front-End Developer** specializing in **HTML, CSS, Bootstrap
 
 ---
 
-⭐ **Don't forget to check out my projects and give a ⭐ if you like them!** 😊
+⭐ **If you like my work, consider giving a ⭐ and following me for more awesome projects!** 🚀
