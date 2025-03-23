@@ -23,12 +23,20 @@
 
 ---
 
-## 🌟 Featured Projects:
+🌟 Featured Projects
 📌 Here are some of my standout projects:
 
-🖥️ **[Project Name 1](Project Link)** - A high-performance and interactive web app.<br>
-📱 **[Project Name 2](Project Link)** - A fully responsive and elegant UI design.<br>
-⚡ **[Project Name 3](Project Link)** - Optimized for speed, usability, and engagement.<br>
+🖥️ Social Networking Platform – A fully social media platform that simulates the experience of using popular social networks. Designed with an intuitive UI for a seamless and engaging user experience.
+
+⚡ Loading Page – A well-optimized and fully responsive loading page, ensuring a smooth experience across all devices.
+
+🧮 Calculator – A simple yet powerful interactive calculator that supports basic arithmetic operations, designed with a clean UI.
+
+📊 Responsive Admin Dashboard – A modern and dynamic data management interface, fully responsive for smooth use on desktops, tablets, and mobile devices.
+
+🌐 Portfolio Website – A professional personal website that showcases skills, projects, and certifications. Designed with responsiveness in mind for a seamless viewing experience on any screen size.
+
+☕ Coffee Project – A visually appealing café website featuring an interactive menu, location details, and special offers, enriched with CSS animations for an engaging user experience.
 
 ---
 
