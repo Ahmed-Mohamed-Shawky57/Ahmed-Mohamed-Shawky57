@@ -32,23 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" width="48%">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourUsername&theme=radical" width="85%">
-</p>
 
----
-
-## 🚀 Additional GitHub Metrics:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=radical" width="85%">
-</p>
-
----
 
 ## 📬 Let's Connect:
 <p align="center">
